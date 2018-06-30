@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 20a0b44eab2704819884da1f0d30ccb2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - DiscBlack: {fileID: 1271702106243718, guid: 7e7299c125fd848dc85feedb93238c22,
+      type: 2}
+  - DiscWhite: {fileID: 1464274974377682, guid: 7390813bec59a4765915d309f25b1f11,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
